@@ -1,0 +1,34 @@
+Criar um programa que abra esses linkes em uma aba separada:
+
+
+Sites de Noticias:
+
+	
+Municipio -> 
+Estado -> https://g1.globo.com/es/espirito-santo/
+Nacional ->
+Mundial ->
+Tecnologia ->
+Ciencia ->
+
+Noticias Gerais Br:
+
+https://br.noticias.yahoo.com/
+
+https://www.folha.uol.com.br/
+
+https://noticias.uol.com.br/
+
+https://g1.globo.com/
+
+
+
+Inglês
+
+https://www.bbc.com/
+
+https://www.newyorker.com/
+
+https://www.economist.com/
+
+https://www.nytimes.com/

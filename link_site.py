@@ -53,9 +53,10 @@ def Sites(Sigla): # Com a Sigla 'BR' ou 'EN' retornar a url dos sites correspond
 
     site_Estado = [
 
-        'https://g1.globo.com/es/espirito-santo/',
+        
         'http://g1.globo.com/espirito-santo/agronegocios/',
-        'http://g1.globo.com/espirito-santo/concursos-e-emprego/'
+        'http://g1.globo.com/espirito-santo/concursos-e-emprego/',
+        'https://g1.globo.com/es/espirito-santo/'
         
         ]
 
