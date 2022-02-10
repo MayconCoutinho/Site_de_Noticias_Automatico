@@ -8,11 +8,6 @@ def Sites(Sigla): # Com a Sigla 'BR' ou 'EN' retornar a url dos sites correspond
     site_EN = [
 
     'https://www.bbc.com/',
-
-    'https://www.newyorker.com/',
-
-    'https://www.economist.com/',
-
     'https://www.nytimes.com/']
 
     # Sites de Tecnologias
@@ -20,11 +15,6 @@ def Sites(Sigla): # Com a Sigla 'BR' ou 'EN' retornar a url dos sites correspond
     site_Tec = [
         
         'https://www.tomshardware.com/',
-        'https://www.profissionaisti.com.br/',
-        'https://tecnoblog.net/',
-        'https://www.tecmundo.com.br/',
-        'https://www.techtudo.com.br/',
-        'https://gizmodo.uol.com.br/',
         'https://olhardigital.com.br/editorias/noticias/'
 
         ] 
@@ -33,19 +23,13 @@ def Sites(Sigla): # Com a Sigla 'BR' ou 'EN' retornar a url dos sites correspond
 
     site_Mundial = [
 
-        'https://g1.globo.com/ciencia/',
-        'https://g1.globo.com/meio-ambiente/',
-        'https://g1.globo.com/turismo-e-viagem/',
-        'https://g1.globo.com/tecnologia/',
-        'https://forbes.com.br/',
-        'https://pt.euronews.com/',
         'https://br.sputniknews.com/'
 
         ]
 
     site_Pais = [
 
-        'https://otrabalhador.com/',
+
         'https://g1.globo.com/',  
         'https://g1.globo.com/economia/agronegocios/',
 
@@ -55,7 +39,6 @@ def Sites(Sigla): # Com a Sigla 'BR' ou 'EN' retornar a url dos sites correspond
 
         
         'http://g1.globo.com/espirito-santo/agronegocios/',
-        'http://g1.globo.com/espirito-santo/concursos-e-emprego/',
         'https://g1.globo.com/es/espirito-santo/'
         
         ]

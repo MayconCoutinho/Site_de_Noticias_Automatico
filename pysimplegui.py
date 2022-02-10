@@ -3,17 +3,19 @@ import link_site
 
 # Layout
 
-sg.theme('DarkBrown1') 
+sg.theme('BlueMono') 
 
 layout = [
 
     [sg.Button('Tecnologia', size= 30, font= 'Calibri')],
+    [sg.Button('Generalista', size= 30, font= 'Calibri')],
+    [sg.Button('English', size= 30, font= 'Calibri')],
     [sg.Button('Mundial', size= 30, font= 'Calibri')],
     [sg.Button('Pais', size= 30, font= 'Calibri')],
     [sg.Button('Estado', size= 30, font= 'Calibri')],
     [sg.Button('Municipio', size= 30, font= 'Calibri')],
-    [sg.Button('English', size= 30, font= 'Calibri')],
-    [sg.Button('Generalista', size= 30, font= 'Calibri')]
+    
+    
 
 
 ]
@@ -21,7 +23,7 @@ layout = [
 
 # Janela
 
-janela = sg.Window('Notícias', layout, background_color= "#000000")
+janela = sg.Window('Notícias', layout)
 
 # Ler os eventos
 
