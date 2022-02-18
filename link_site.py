@@ -1,4 +1,4 @@
-# Abre sites de Noticias em Portuquês ou Inglês 
+# Abre sites de Noticias em Portuquês ou Inglês.
 
 
 def Sites(Sigla): 
@@ -59,9 +59,9 @@ def Sites(Sigla):
         ]
 
 
-    # Comfirmação de qual é a Sigla posta e retorna a lista correspondete 
+    # Confirmação de qual é a "Sigla" posta e retorna a lista correspondete. 
     if Sigla == 'EN':
-        return site_EN
+        return site_EN  
     elif Sigla == 'Tec':
         return site_Tec
     elif Sigla == 'Mundial':
@@ -79,8 +79,8 @@ def Sites(Sigla):
         
 
 def abri_site(sites): # Abre as url no navegador 
-
     import webbrowser # importando webbrowser 
+    
     for abrir in sites: # Loop para abri todos sites da Lista
         webbrowser.open(abrir, new=0, autoraise=True) 
 
