@@ -1,7 +1,7 @@
 # Abre sites de Noticias em Portuquês ou Inglês 
 
 
-def Sites(Sigla): # Com a Sigla 'BR' ou 'EN' retornar a url dos sites correspondete a Nacionalidade da sigla 
+def Sites(Sigla): 
 
     # Cadastramento dos Sites EN
 
