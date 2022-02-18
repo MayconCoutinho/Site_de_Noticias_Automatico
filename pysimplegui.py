@@ -14,10 +14,7 @@ layout = [
     [sg.Button('Pais', size= 30, font= 'Calibri')],
     [sg.Button('Estado', size= 30, font= 'Calibri')],
     [sg.Button('Municipio', size= 30, font= 'Calibri')],
-    
-    
-
-
+  
 ]
 
 
@@ -26,7 +23,6 @@ layout = [
 janela = sg.Window('Notícias', layout)
 
 # Ler os eventos
-
 
 while True:
 
